@@ -1,0 +1,6 @@
+5
+funghi 3 1 ciuperci 10 4 ketchup 5 7 porumb 20 34
+carnivora 2 0 salam 5 20 sunca 4 50
+formaggi 3 1 cascaval 4 46 mozzarela 6 20 brie 7 45
+pollo 4 0 porumb 5 30 ketchup 6 20 pui 10 60 cascaval 7 10
+margherita 2 1 cascaval 5 10 ketchup 5 20
